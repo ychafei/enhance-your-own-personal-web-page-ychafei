@@ -9,12 +9,10 @@
 
     <h1>Welcome to Yousef ElChafei's Personal Web Page</h1>
 
-    <!-- Hyperlink to your favorite website -->
     <p>Visit my favorite website: 
         <a href="https://yousefchafei.pythonanywhere.com/site/css/" target="_blank">(Name of the website)</a>
     </p>
 
-    <!-- Image of your favorite hobby or interest -->
     <p>Here is an image that represents my favorite hobby or interest:</p>
     <img src="hobby.jpg" alt="I love to play soccer" width="300" height="200">
 
